@@ -1,0 +1,27 @@
+{
+  "name": "novabennett95-ai-humanizer",
+  "version": "1.0.0",
+  "description": "AI Humanizer rewrites AI-generated text to sound natural and bypass AI detection",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-humanizer",
+    "ai",
+    "ai-detection",
+    "content-rewriter",
+    "paraphraser",
+    "writing",
+    "javascript",
+    "nodejs",
+    "saas"
+  ],
+  "author": "Ghostii",
+  "license": "ISC",
+  "homepage": "https://ghostii.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novabennett95/ai-humanizer.git"
+  }
+}
